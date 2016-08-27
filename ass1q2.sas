@@ -1,6 +1,6 @@
 libname orion 'H:\math2871';
 
-/* Question 3*/
+/* Question 3 */
 data work.ASS1Q2;
 	set orion.agpop;
 	where county like 'BUTT%';
@@ -12,7 +12,7 @@ proc print data=work.ASS1Q2;
 	var county acres87;
 run;
 
-/* Question 5*/
+/* Question 5 */
 proc means data=work.ASS1Q2 min q1 median q3 max;
 	var acres92 acres82;
 run;
