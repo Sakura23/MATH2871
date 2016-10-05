@@ -1,4 +1,6 @@
-/* Hello if you manage to find this repository by yourself congratulations, if Alex did not link you to this repository and you intend to copy Alex will hunt you down and hurt you! */
+/* Hello if you manage to find this repository by yourself congratulations, 
+if Alex did not link you to this repository and you intended to copy this assignment
+Alex will hunt you down and hurt you! */
 
 libname orion 'C:\Users\Alex\Documents\math2871';
 
