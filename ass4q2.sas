@@ -1,5 +1,3 @@
-libname orion 'C:\Users\Alex\Documents\math2871';
-
 data supplier;
     infile 'supply.dat';
     length Supplier_ID $5 Supplier_Name $30 Country $2;
