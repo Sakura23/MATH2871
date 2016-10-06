@@ -2,7 +2,6 @@
 if Alex did not link you to this repository and you intended to copy this assignment
 Alex will hunt you down and hurt you! */
 
-
 libname orion 'C:\Users\Alex\Documents\math2871';
 
 proc sort data=orion.Monthdonation out=sortedMonthdonation;
