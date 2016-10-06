@@ -1,3 +1,7 @@
+/* Hello if you manage to find this repository by yourself congratulations, 
+if Alex did not link you to this repository and you intended to copy this assignment
+Alex will hunt you down and hurt you! */
+
 data supplier;
     infile 'supply.dat';
     length Supplier_ID $5 Supplier_Name $30 Country $2;
